@@ -15,10 +15,10 @@ In the model directory, you will find two configuration files:
 `yolo5_fpn.yaml`: This configuration file is intended for use with the original YOLOv5.
 
 ### Usage
-Training
+##### Training
 
 To train the model, use the `train.py` script
 
-Testing 
+##### Testing 
 
 To perform object detection, benchmarking, exporting model in different format with the trained model, use the `test.py` script:
