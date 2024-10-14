@@ -8,7 +8,9 @@
 ### Configuration Files
 In the model directory, you will find two configuration files:
 
-`yolo5_fpn_ultralytics.yaml`: This configuration file is for use with the Ultralytics YOLOv5 repository.
+`yolo8_fpn.yaml`: This configuration file is for use with the Ultralytics YOLOv8.
+
+`yolo5_fpn_ultralytics.yaml`: This configuration file is for use with the Ultralytics YOLOv5.
 
 `yolo5_fpn.yaml`: This configuration file is intended for use with the original YOLOv5 repository.
 
@@ -19,4 +21,4 @@ To train the model, use the `train.py` script
 
 Testing 
 
-To perform object detection, benchmarking, exporting model in different format with the trained model, use the `detect.py` script:
+To perform object detection, benchmarking, exporting model in different format with the trained model, use the `test.py` script:
