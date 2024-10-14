@@ -1,18 +1,18 @@
 # yolov5fpnhead
 
 ### Clone repo and install requirements.txt
-`https://github.com/computerVision3/yolov5fpnhead`
+`https://github.com/RazaMasood/Yolov5withFpnHead.git`
 
 `pip install -r requirement.txt`
 
 ### Configuration Files
 In the model directory, you will find two configuration files:
 
-`yolo8_fpn.yaml`: This configuration file is for use with the Ultralytics YOLOv8.
+`yolo8_fpn.yaml`: This configuration file is intended for use with the original YOLOv8.
 
-`yolo5_fpn_ultralytics.yaml`: This configuration file is for use with the Ultralytics YOLOv5.
+`yolo5_fpn_ultralytics.yaml`: This configuration file is for use with the Ultralytics YOLOv5 repository.
 
-`yolo5_fpn.yaml`: This configuration file is intended for use with the original YOLOv5 repository.
+`yolo5_fpn.yaml`: This configuration file is intended for use with the original YOLOv5.
 
 ### Usage
 Training
